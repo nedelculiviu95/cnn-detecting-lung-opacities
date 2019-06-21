@@ -10,6 +10,6 @@ The CheXNet replicated model and the newly CNN architectures were trained for 24
 
 ## Results 
 
-     | CheXnet | DenseNet169 | DenseNet201 | Xception | InceptionV3 
----- | ------- | ----------- | ----------- | -------- | ----------- 
-label|         |             |             |          |            
+|      | CheXnet | DenseNet169 | DenseNet201 | Xception | InceptionV3 |
+| ---- | :-----: | :---------: | :---------: | :------: | :---------: | 
+|label |         |             |             |          |             |
