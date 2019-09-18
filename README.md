@@ -10,6 +10,19 @@ The CheXNet replicated model and the newly CNN architectures were trained for 24
 
 ## Results 
 
-|      | CheXnet | DenseNet169 | DenseNet201 | Xception | InceptionV3 |
-| ---- | :-----: | :---------: | :---------: | :------: | :---------: | 
-|label |         |             |             |          |             |
+| Label | CheXnet | DenseNet169 | DenseNet201 | Xception | InceptionV3 |
+| ----  | :-----: | :---------: | :---------: | :------: | :---------: | 
+|Atelectasis | 0.777       |             |             |          |             |
+|Cardiomegaly | 0.777       |             |             |          |             |
+|Effusion | 0.777       |             |             |          |             |
+|Infiltration | 0.777       |             |             |          |             |
+|Mass | 0.777       |             |             |          |             |
+|Nodule | 0.777       |             |             |          |             |
+|Pneumonia | 0.777       |             |             |          |             |
+|Pneumothorax | 0.777       |             |             |          |             |
+|Consolidation | 0.777       |             |             |          |             |
+|Edema | 0.777       |             |             |          |             |
+|Emphysemia | 0.777       |             |             |          |             |
+|Fibrosis | 0.777       |             |             |          |             |
+|Pleural Thickening | 0.777       |             |             |          |             |
+|Hernia | 0.777       |             |             |          |             |
