@@ -26,4 +26,4 @@ The CheXNet replicated model and the newly CNN architectures were trained for 24
 |Fibrosis | 0.764     |0.746    | 0.716            |0.802          |0.740             |
 |Pleural Thickening | 0.723 |0.719 |0.689             |0.752          |0.745             |
 |Hernia | 0.772       |0.834    |0.811             |0.852          |0.842             |
-|**Average AUC score| 0.785 |0.775 |0.758 | 0.819|0.798 |
+|**Average AUC score**| **0.785** |**0.775** |**0.758** | **0.819**| **0.798** |
